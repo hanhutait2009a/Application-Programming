@@ -7,13 +7,13 @@ namespace Ex2
         public static void Main(string[] args)
         {
             string str1; 
-            string chuoi_con; 
-            Console.Write("\nTim vi tri chuoi con trong C#:\n");
-            Console.Write("---------------------------------------\n");
-            Console.Write("Nhap mot chuoi: ");
+            string chuoi_con;
+            Console.WriteLine("Tim vi tri chuoi!");
+            Console.WriteLine("-------------------------");
+            Console.WriteLine("Nhap mot chuoi:");
             str1 = Console.ReadLine();
 
-            Console.Write("Nhap chuoi con can tim kiem: ");
+            Console.WriteLine("Nhap chuoi con can tim kiem:");
             chuoi_con = Console.ReadLine();
             int vi_tri = str1.IndexOf(chuoi_con);
             if (vi_tri < 0)
