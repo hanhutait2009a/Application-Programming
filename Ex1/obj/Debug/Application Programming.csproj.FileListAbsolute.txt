@@ -1,0 +1,6 @@
+C:\Users\ADMIN\RiderProjects\Application Programming\Application Programming\bin\Debug\Application_Programming.exe
+C:\Users\ADMIN\RiderProjects\Application Programming\Application Programming\bin\Debug\Application_Programming.pdb
+C:\Users\ADMIN\RiderProjects\Application Programming\Application Programming\obj\Debug\Application Programming.csprojAssemblyReference.cache
+C:\Users\ADMIN\RiderProjects\Application Programming\Application Programming\obj\Debug\Application Programming.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\RiderProjects\Application Programming\Application Programming\obj\Debug\Application_Programming.exe
+C:\Users\ADMIN\RiderProjects\Application Programming\Application Programming\obj\Debug\Application_Programming.pdb
